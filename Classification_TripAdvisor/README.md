@@ -1,1 +1,1 @@
-
+In this report, we delve deeper into the impact of vectors on the classification output using the TripAdvisor reviews dataset. The unique characteristics of TripAdvisor reviews, encompassing diverse topics and sentiments, pose interesting challenges for classification. Our objective is to discern how the chosen vectorization techniques influence the overall classification results.
